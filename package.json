@@ -1,0 +1,15 @@
+{
+  "name": "admin1",
+  "version": "0.0.1",
+  "description": "a test admin system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chenwubai.cx@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-router": "^3.0.0"
+  }
+}
